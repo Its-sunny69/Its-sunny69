@@ -85,7 +85,11 @@
   </a>
 </div>
 
-<h3 align="center"><i>Beside Coding 👀</i></h3>
+###
+
+<h2 align="center"><i>Beside Coding 👀</i></h2>
+
+###
 
 <h3 align="center"><i>Some Fun...</i></h3>
 
@@ -123,7 +127,7 @@
       <p><b><i>Imagination has no limit!</i></b></p>
     </td>
     <td align="right" valign="middle">
-      <img height="200" src="https://media.tenor.com/6_x4j8mQ8VwAAAAC/pho.gif" alt="Dreaming gif" />
+      <img width="200" height="200" src="https://media.tenor.com/6_x4j8mQ8VwAAAAC/pho.gif" alt="Dreaming gif" />
     </td>
   </tr>
 </table>
