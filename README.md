@@ -2,26 +2,21 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="header" />
 </div>
 
-<table>
-  <tr>
-    <td width="260" align="center" valign="top">
-      <img src="./images/user.png" alt="Sunny Yadav" width="230" />
-    </td>
-    <td valign="top">
-      <h3>
-        <i>नमस्ते Hello こんにちは,</i>
-      </h3>
-      <h1><i>I'm Sunny Yadav 👋</i></h1>
-      <p>
-        <i>Always building and learning something new 🔥.</i>
-        <br />
-        <i>I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces.</i>
-        <br />
-        <i>I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer.</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="./images/user.png" alt="Sunny Yadav" width="230" align="left" hspace="18" />
+
+<h3>
+  <i>नमस्ते Hello こんにちは,</i>
+</h3>
+<h1><i>I'm Sunny Yadav 👋</i></h1>
+<p>
+  <i>Always building and learning something new 🔥.</i>
+  <br />
+  <i>I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces.</i>
+  <br />
+  <i>I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer.</i>
+</p>
+
+<br clear="left" />
 
 <h3 align="center"><i>Stats</i></h3>
 
@@ -119,18 +114,13 @@
 
 <h3 align="center"><i>Some Dreaming...</i></h3>
 
-<table>
-  <tr>
-    <td valign="middle">
-      <h1><i>Sometime That One Picture is Enough to Make Your Day!</i></h1>
-      <p align="left"><i>______________________________________________</i></p>
-      <p><b><i>Imagination has no limit!</i></b></p>
-    </td>
-    <td align="right" valign="middle">
-      <img width="200" height="200" src="https://media.tenor.com/6_x4j8mQ8VwAAAAC/pho.gif" alt="Dreaming gif" />
-    </td>
-  </tr>
-</table>
+<img width="200" height="200" align="right" hspace="18" src="https://tenor.com/en-GB/view/pho-gif-1731968021639131696.gif" alt="Dreaming gif" />
+
+<h1><i>Sometime That One Picture is Enough to Make Your Day!</i></h1>
+<p align="left"><i>______________________________________________</i></p>
+<p><b><i>Imagination has no limit!</i></b></p>
+
+<br clear="right" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=its-sunny69.its-sunny69&" alt="Visitor badge" />
