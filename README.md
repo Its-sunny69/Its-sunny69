@@ -2,32 +2,28 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="header" />
 </div>
 
-###
-
 <table>
   <tr>
     <td width="260" align="center" valign="top">
       <img src="./images/user.png" alt="Sunny Yadav" width="230" />
     </td>
     <td valign="top">
+      <h3>
+        <i>नमस्ते Hello こんにちは,</i>
+      </h3>
+      <h1><i>I'm Sunny Yadav 👋</i></h1>
       <p>
-        नमस्ते Hello こんにちは,
-      </p>
-      <h2>I'm Sunny Yadav 👋</h2>
-      <p>
-        Always building and learning something new 🔥.
+        <i>Always building and learning something new 🔥.</i>
         <br />
-        I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces.
+        <i>I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces.</i>
         <br />
-        I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer.
+        <i>I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer.</i>
       </p>
     </td>
   </tr>
 </table>
 
-###
-
-<h2 align="center">Stats</h2>
+<h3 align="center"><i>Stats</i></h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -46,9 +42,7 @@
   </a>
 </div>
 
-###
-
-<h2 align="center">Tech</h2>
+<h3 align="center"><i>Tech</i></h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
@@ -68,9 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
-###
-
-<h2 align="center">Social</h2>
+<h3 align="center"><i>Social</i></h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sunny-yadav-557676249/" target="_blank">
@@ -93,17 +85,13 @@
   </a>
 </div>
 
-###
+<h3 align="center"><i>Beside Coding 👀</i></h3>
 
-<h2 align="center"><i>Beside Coding 👀</i></h2>
-
-<h3 align="center">Some Fun...</h3>
+<h3 align="center"><i>Some Fun...</i></h3>
 
 <img src="https://raw.githubusercontent.com/its-sunny69/its-sunny69/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h3 align="center">Some Writing...</h3>
+<h3 align="center"><i>Some Writing...</i></h3>
 
 <div align="center">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@its-sunny69/0">
@@ -117,9 +105,7 @@
   </a>
 </div>
 
-###
-
-<h3 align="center">Some Listing...</h3>
+<h3 align="center"><i>Some Listing...</i></h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31fht5exk4mtmnfzsscobnbg6ic4">
@@ -127,15 +113,13 @@
   </a>
 </div>
 
-###
-
-<h3 align="center">Some Dreaming...</h3>
+<h3 align="center"><i>Some Dreaming...</i></h3>
 
 <table>
   <tr>
     <td valign="middle">
-      <h1>Sometime That One Picture is Enough to Make Your Day!</h1>
-      <p align="left">______________________________________________</p>
+      <h1><i>Sometime That One Picture is Enough to Make Your Day!</i></h1>
+      <p align="left"><i>______________________________________________</i></p>
       <p><b><i>Imagination has no limit!</i></b></p>
     </td>
     <td align="right" valign="middle">
@@ -144,10 +128,6 @@
   </tr>
 </table>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=its-sunny69.its-sunny69&" alt="Visitor badge" />
 </div>
-
-###
