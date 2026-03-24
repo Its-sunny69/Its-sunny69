@@ -6,8 +6,9 @@
 <img src="./images/user.png" alt="Sunny Yadav" width="230" align="left" hspace="18" />
 
 #### _नमस्ते Hello こんにちは,_
+#### _I am_
 
-## _I'm Sunny Yadav 👋_
+<img src="./images/name.png" alt="Sunny Yadav" width="320" align="center" />
 
 #### _Always building and learning something new 🔥._  
 #### _I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces._  
@@ -111,11 +112,12 @@
 
 <h3 align="center"><i>Some Dreaming...</i></h3>
 
-<img width="200" height="200" align="right" hspace="18" src="https://tenor.com/en-GB/view/pho-gif-1731968021639131696.gif" alt="Dreaming gif" />
+<p align="center">
+  <img width="200" height="200" hspace="12" src="https://tenor.com/en-GB/view/pho-gif-1731968021639131696.gif" alt="Dreaming gif" />
+  <img width="600" hspace="12" src="./images/quote.png" alt="Quote Image" />
+</p>
 
-<h3><i>Sometime That One Picture is Enough to Make Your Day!</i></h3>
-
-<br clear="right" />
+<br clear="all" />
 
 ###
 
