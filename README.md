@@ -2,16 +2,18 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="header" />
 </div>
 
-<!-- make it mobile safe... -->
-<img src="./images/user.png" alt="Sunny Yadav" width="230" align="left" hspace="18" />
-
 #### _नमस्ते Hello こんにちは,_
+
 #### _I am_
 
-<img src="./images/name.png" alt="Sunny Yadav" width="320" align="center" />
+<p align="center">
+<img src="./images/name.png" alt="Sunny Yadav" width="999" align="center" />
+</p>
 
-#### _Always building and learning something new 🔥._  
-#### _I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces._  
+#### _Always building and learning something new 🔥._
+
+#### _I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces._
+
 #### _I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer._
 
 <br clear="left" />
@@ -102,7 +104,7 @@
   </a>
 </div>
 
-<h3 align="center"><i>Some Listing...</i></h3>
+<h3 align="center"><i>Some Listening...</i></h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31fht5exk4mtmnfzsscobnbg6ic4">
@@ -113,8 +115,8 @@
 <h3 align="center"><i>Some Dreaming...</i></h3>
 
 <p align="center">
-  <img width="200" height="200" hspace="12" src="https://tenor.com/en-GB/view/pho-gif-1731968021639131696.gif" alt="Dreaming gif" />
   <img width="600" hspace="12" src="./images/quote.png" alt="Quote Image" />
+  <img width="200" height="200" hspace="12" src="https://tenor.com/en-GB/view/pho-gif-1731968021639131696.gif" alt="Dreaming gif" />
 </p>
 
 <br clear="all" />
@@ -122,7 +124,7 @@
 ###
 
 <p align="center"><i>______________________________________________</i></p>
-<p align="center"><b><i>Imagination has no limit!</i></b></p>
+<h3 align="center"><b><i>Imagination has no limit!</i></b></h3>
 <p align="center"><i>______________________________________________</i></p>
 
 <div align="center">
