@@ -88,7 +88,9 @@
 
 <h3 align="center"><i>Some Fun...</i></h3>
 
-<img src="https://raw.githubusercontent.com/its-sunny69/its-sunny69/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
+    <img alt="github-snake" src="github-snake.svg" />
+</a>
 
 <h3 align="center"><i>Some Writing...</i></h3>
 
