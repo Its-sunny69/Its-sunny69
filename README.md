@@ -2,19 +2,16 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="header" />
 </div>
 
+<!-- make it mobile safe... -->
 <img src="./images/user.png" alt="Sunny Yadav" width="230" align="left" hspace="18" />
 
-<h3>
-  <i>नमस्ते Hello こんにちは,</i>
-</h3>
-<h1><i>I'm Sunny Yadav 👋</i></h1>
-<p>
-  <i>Always building and learning something new 🔥.</i>
-  <br />
-  <i>I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces.</i>
-  <br />
-  <i>I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer.</i>
-</p>
+#### _नमस्ते Hello こんにちは,_
+
+## _I'm Sunny Yadav 👋_
+
+#### _Always building and learning something new 🔥._  
+#### _I have hands-on experience with HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js, Framer Motion and I enjoy building clean, responsive, user-friendly, animated web interfaces._  
+#### _I am excited about opportunities to join teams and contribute to projects while continuing to learn and grow as a developer._
 
 <br clear="left" />
 
@@ -116,11 +113,15 @@
 
 <img width="200" height="200" align="right" hspace="18" src="https://tenor.com/en-GB/view/pho-gif-1731968021639131696.gif" alt="Dreaming gif" />
 
-<h1><i>Sometime That One Picture is Enough to Make Your Day!</i></h1>
-<p align="left"><i>______________________________________________</i></p>
-<p><b><i>Imagination has no limit!</i></b></p>
+<h3><i>Sometime That One Picture is Enough to Make Your Day!</i></h3>
 
 <br clear="right" />
+
+###
+
+<p align="center"><i>______________________________________________</i></p>
+<p align="center"><b><i>Imagination has no limit!</i></b></p>
+<p align="center"><i>______________________________________________</i></p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=its-sunny69.its-sunny69&" alt="Visitor badge" />
