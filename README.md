@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header" />
 </div>
 
 #### _नमस्ते Hello こんにちは,_
@@ -88,9 +88,11 @@
 
 <h3 align="center"><i>Some Fun...</i></h3>
 
-<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img alt="github snake" src="https://raw.githubusercontent.com/its-sunny69/its-sunny69/output/github-contribution-grid-snake.svg">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-sunny69/its-sunny69/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-sunny69/its-sunny69/output/github-contribution-grid-snake.svg">
+  <img alt="Githib snake game" src="https://raw.githubusercontent.com/its-sunny69/its-sunny69/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3 align="center"><i>Some Writing...</i></h3>
 
